@@ -10,6 +10,7 @@
   * [报名方式](#报名方式)
   * [注意事项](#注意事项)
   * [FAQ](#faq)
+  * [Wiki](https://github.com/xebfc/BFC/wiki)
 
 ## 简介
 
