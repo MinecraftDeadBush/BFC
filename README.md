@@ -23,7 +23,7 @@
 * 赛程包括 __小组赛__ 和 __淘汰赛__ ，小组赛为[单循环](https://zh.wikipedia.org/wiki/%E5%BE%AA%E7%8E%AF%E8%B5%9B)，淘汰赛采用[双败制](https://zh.wikipedia.org/wiki/%E5%8F%8C%E8%B4%A5%E6%B7%98%E6%B1%B0%E5%88%B6)。
 * 报满 8 支队伍即可开赛，最多不超过 16 支队伍。
 * 比赛形式为 Team vs | 4v4 | BO9 ，使用 __Score V2__ 且 fail 算分。
-* 每个赛季将使用一个较大且固定的图池，类型包括 Free Mod (FM)，HD，HR，DT，Force Mod (FCM) 以及 Tie Breaker (TB) 决胜图。FM 和 TB 对 mod 的选择没有限制（HT/DT 需要双方队长同意才行），FCM 要求每人必加 Mod 且每队至少要有 1 个 HD 和 1 个 HR （开 HDHR 可以算作 1 个 HD + 1 个 HR）。
+* 每个赛季将使用一个较大且固定的图池，类型包括 Free Mod (FM)，EZ，HR，DT，Force Mod (FCM) 以及 Tie Breaker (TB) 决胜图。FM 和 TB 对 mod 的选择没有限制（HT/DT 需要双方队长同意才行），FCM 要求每人必加 Mod 且每队至少要有 1 个 HD 和 1 个 HR （开 HDHR 可以算作 1 个 HD + 1 个 HR）。
 
 ## 规则
 
